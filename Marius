@@ -1,0 +1,9 @@
+int bluePin = 8;
+
+int greenPin = 9;
+
+int redPin = 10;
+
+int buzzPin = 11;                // choose the pin for the LED
+
+int inputPin = 12;               // choose the input pin (for PIR sensor)
